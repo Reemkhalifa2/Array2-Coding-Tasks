@@ -4,6 +4,7 @@ public class fizzArray {
         for(Integer i=0; i<n; i++){
             nums[i]=i;
         }
+
         return nums;
     }
 }
