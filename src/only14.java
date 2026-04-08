@@ -7,6 +7,7 @@ public class only14 {
             if(!(num == 4 || num == 1)){
                 found = false;
             }
+
         }
 
         return found;
