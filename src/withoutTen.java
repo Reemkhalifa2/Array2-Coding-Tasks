@@ -1,5 +1,5 @@
 public class withoutTen {
-    public static Integer[] (Integer [] nums){
+    public static Integer[] withoutTen(Integer [] nums){
             Integer index = 0;
             for (Integer i = 0; i < nums.length; i++) {
                 if (nums[i] != 10) {
